@@ -1,0 +1,7 @@
+javalang>=0.13.0
+networkx>=3.2
+sqlparse>=0.5.0
+colorama>=0.4.6
+tqdm>=4.66
+flask>=2.3.0
+flask-cors>=4.0.0
